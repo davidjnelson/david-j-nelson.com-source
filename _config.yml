@@ -68,6 +68,8 @@ github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: true
 
+hn_like_button: true
+
 # Twitter
 twitter_user: david_j_nelson
 twitter_tweet_button: true
