@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://david-j-nelson.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: David J. Nelson's Blog
+subtitle: Software architecture and engineering, with a focus on single page applications.
+author: David Nelson
 simple_search: http://google.com/search
 description:
 
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Github repositories
 github_user: davidjnelson
-github_repo_count: 3
+github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: true
 
