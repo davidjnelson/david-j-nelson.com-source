@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computer Science Fundementals Series"
+title: "Computer Science Fundamentals Series"
 date: 2014-03-02 18:46
 comments: true
 categories: computer-science-fundamentals
